@@ -1,2 +1,2 @@
 # NFL_data
-# Accessing data from pro football reference api
+# Accessing data from Pro Football Reference api
